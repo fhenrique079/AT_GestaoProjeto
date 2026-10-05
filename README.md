@@ -2,6 +2,7 @@
 
 ## Integrante: 
 - Francisco Henrique
+- João Vitor
 
 ## Propósito do Projeto
 - Aplicar os conceitos de controle de versão utilizando o Git. <br/>
