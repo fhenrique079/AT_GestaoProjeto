@@ -1,7 +1,7 @@
 # Changelog - Atividade Prática
 
 ## [v1.0] - Versão Final
-- Testes e Ajustes da v0.3
+- É a v0.3 pois foi constatado como a versão final com êxito
 
 ## [v0.3] 
 - Validação do campo usuário em index.html.
